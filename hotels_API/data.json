@@ -1,0 +1,140 @@
+[
+    {
+        "34561": {
+            "name": "Mercure Paris gare du Nord la Fayette",
+            "distance": {
+                "value": 3.04,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "271",
+                "currency": "$",
+                "per_night": "237"
+            },
+            "coordinates": {
+                "lat": 48.87984,
+                "long": 2.35934
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/1000000/40000/34600/34561/5e72afb0.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/40000/34600/34561/9bfff56d.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/40000/34600/34561/6278ebc3.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    },
+    {
+        "561982": {
+            "name": "H\u00f4tel Cervantes by Happyculture",
+            "distance": {
+                "value": 3.56,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "264",
+                "currency": "$",
+                "per_night": "295"
+            },
+            "coordinates": {
+                "lat": 48.880985,
+                "long": 2.323022
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/1000000/570000/562000/561982/c8984efe.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/570000/562000/561982/09e0c197.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/570000/562000/561982/a25ccfbc.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    },
+    {
+        "1382678": {
+            "name": "Hotel Le Mareuil",
+            "distance": {
+                "value": 1.99,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "266",
+                "currency": "$",
+                "per_night": "262"
+            },
+            "coordinates": {
+                "lat": 48.866043,
+                "long": 2.367546
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/2000000/1390000/1382700/1382678/e8b08703.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/2000000/1390000/1382700/1382678/c9d1f389.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/2000000/1390000/1382700/1382678/917c2c00.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    },
+    {
+        "4973264": {
+            "name": "H\u00f4tel de France Invalides",
+            "distance": {
+                "value": 2.83,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "263",
+                "currency": "$",
+                "per_night": "262"
+            },
+            "coordinates": {
+                "lat": 48.85354,
+                "long": 2.30946
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/5000000/4980000/4973300/4973264/7308cd7c.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/5000000/4980000/4973300/4973264/9fd210ea.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/5000000/4980000/4973300/4973264/6a7645eb.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    },
+    {
+        "83107": {
+            "name": "H\u00f4tel Sacha",
+            "distance": {
+                "value": 2.96,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "265",
+                "currency": "$",
+                "per_night": "261"
+            },
+            "coordinates": {
+                "lat": 48.879561,
+                "long": 2.339246
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/1000000/90000/83200/83107/c325760c.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/90000/83200/83107/ad5e67ff.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/90000/83200/83107/f19c614a.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    },
+    {
+        "25924": {
+            "name": "My Home in Paris Hotel",
+            "distance": {
+                "value": 1.9,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "264",
+                "currency": "$",
+                "per_night": "262"
+            },
+            "coordinates": {
+                "lat": 48.86354,
+                "long": 2.36915
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/1000000/30000/26000/25924/c910a128.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/30000/26000/25924/2bb7666f.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/30000/26000/25924/46091bdd.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    }
+]

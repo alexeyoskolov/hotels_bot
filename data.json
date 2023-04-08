@@ -1,0 +1,140 @@
+[
+    {
+        "190383": {
+            "name": "Best Western Hotel Op\u00e9ra Drouot",
+            "distance": {
+                "value": 2.2,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "267",
+                "currency": "$",
+                "per_night": "266"
+            },
+            "coordinates": {
+                "lat": 48.873035,
+                "long": 2.342475
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/1000000/200000/190400/190383/830a982e.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/200000/190400/190383/3880d76d.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/200000/190400/190383/ce36806d.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    },
+    {
+        "53484": {
+            "name": "Hotel Oratio",
+            "distance": {
+                "value": 0.55,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "267",
+                "currency": "$",
+                "per_night": "268"
+            },
+            "coordinates": {
+                "lat": 48.84874,
+                "long": 2.34959
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/1000000/60000/53500/53484/89039666.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/60000/53500/53484/3aa60ca8.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/60000/53500/53484/7dfcc267.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    },
+    {
+        "565110": {
+            "name": "Handsome Hotel by Elegancia",
+            "distance": {
+                "value": 0.97,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "267",
+                "currency": "$",
+                "per_night": "239"
+            },
+            "coordinates": {
+                "lat": 48.862267,
+                "long": 2.348898
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/1000000/570000/565200/565110/5c3d19ce.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/570000/565200/565110/f76d14a9.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/570000/565200/565110/b86fcd71.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    },
+    {
+        "44797": {
+            "name": "Hotel France Louvre",
+            "distance": {
+                "value": 0.67,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "267",
+                "currency": "$",
+                "per_night": "239"
+            },
+            "coordinates": {
+                "lat": 48.856396,
+                "long": 2.356184
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/1000000/50000/44800/44797/da4e7307.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/50000/44800/44797/95f1db77.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/50000/44800/44797/20cfd0e7.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    },
+    {
+        "564897": {
+            "name": "H\u00f4tel Raspail Montparnasse",
+            "distance": {
+                "value": 1.9,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "266",
+                "currency": "$",
+                "per_night": "265"
+            },
+            "coordinates": {
+                "lat": 48.84145,
+                "long": 2.32985
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/1000000/570000/564900/564897/63dca862.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/570000/564900/564897/b070863e.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/570000/564900/564897/a2cdf351.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    },
+    {
+        "83058": {
+            "name": "H\u00f4tel Ic\u00f4ne",
+            "distance": {
+                "value": 2.05,
+                "unit": "KILOMETER"
+            },
+            "price": {
+                "total": "266",
+                "currency": "$",
+                "per_night": "264"
+            },
+            "coordinates": {
+                "lat": 48.871042,
+                "long": 2.339017
+            },
+            "photo": [
+                "https://images.trvl-media.com/lodging/1000000/90000/83100/83058/23e28837.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/90000/83100/83058/01953483.jpg?impolicy=resizecrop&rw=500&ra=fit",
+                "https://images.trvl-media.com/lodging/1000000/90000/83100/83058/68bb99bb.jpg?impolicy=resizecrop&rw=500&ra=fit"
+            ]
+        }
+    }
+]
